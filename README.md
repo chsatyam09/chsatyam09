@@ -1,7 +1,18 @@
 ![logo](https://miro.medium.com/v2/resize:fit:1400/0*3LHozcwxQYiKVhPG.png)
 <h1 align="center">Hi 👋, I'm Satyam</h1>
 <h3 align="center">"Seeking Internship and Job Opportunities: Android Development | Kotlin |Jetpack Compose | Java |Data Structures & Algorithms | DBMS (SQL)”</h3>
+<hr>
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"> -->
 <img align="right" allt="coding" width="400"src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
+- 👨‍💻 Computer Engineer.
+- 🚀 Passionate about exploring and applying new technologies.
+- 📖 Believer in continuous learning.
+- 🛠️ Enthusiast for a variety of projects.
+
+<hr>
+
 
 
 - 🔭 I’m currently working on **Login Authentication for bootup Application**
