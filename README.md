@@ -1,6 +1,6 @@
 ![logo](https://miro.medium.com/v2/resize:fit:1400/0*3LHozcwxQYiKVhPG.png)
 <h1 align="center">Hi 👋, I'm Satyam</h1>
-<h3 align="center">"Seeking Internship and Job Opportunities: Android Development | Kotlin |Jetpack Compose | Java |Data Structures & Algorithms | DBMS (SQL)”</h3>
+<h3 align="center">" Android Developer | Kotlin | JAVA | Jetpack Compose | XML | Manual and Automation Testing | Selenium | API (Postman) Testing | DBMS (SQL) | Firebase ”</h3>
 <hr>
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"> -->
