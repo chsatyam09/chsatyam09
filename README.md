@@ -13,14 +13,6 @@
 
 <hr>
 
-
-
-- 🔭 I’m currently working on **Login Authentication for bootup Application**
-
-- 🌱 I’m currently learning **Dependency injection (Dagger Hilt)**
-
-- 💬 Ask me about **Android Development || jetpack compose || java**
-
 - 📫 you can contact me  **rajsatyam200@gmail.com**
 
 - ⚡ Fun fact **I hit gym Daily**
